@@ -51,11 +51,11 @@ public class MainActivity extends ActionBarActivity {
             posterView = (PosterView) rootView.findViewById(R.id.poster);
 
             List<Integer> images = new ArrayList<Integer>();
-            images.add(R.drawable.card_1_1);
-            images.add(R.drawable.card_1_3);
-            images.add(R.drawable.card_2_3);
-            images.add(R.drawable.card_3_1);
-            images.add(R.drawable.card_4_1);
+            images.add(R.drawable.poster_01);
+            images.add(R.drawable.poster_02);
+            images.add(R.drawable.poster_03);
+            images.add(R.drawable.poster_04);
+            images.add(R.drawable.poster_05);
             posterView.refreshData(images);
 
         }
