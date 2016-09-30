@@ -14,6 +14,7 @@
 3. 3
 
 ><font color=#0099ff size=12 face="黑体">例如这样</font>
+<font color=#0099ff size=12 face="黑体">例如这样</font>
 
 
 Android 广告自动切换页
